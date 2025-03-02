@@ -1,0 +1,26 @@
+{
+    "Headernavigation":{
+        "basicmenu":[
+         {
+            "name":"Home",
+            "href":"/"
+         },
+           {
+              "name":"Learn",
+              "href":"/learn"
+           },
+           {
+            "name":"Tools",
+            "href":"/tools"
+         },
+           {
+            "name":"Examples",
+            "href":"/examples"
+         },
+         {
+            "name":"Debug",
+            "href":"/debug"
+         }
+        ]
+     }
+}
